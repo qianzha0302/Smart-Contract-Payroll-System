@@ -14,8 +14,6 @@ protected and are content throughout the process. Our project is not
 only different from others, as it is leveraging the smart contract on salary
 payment system, but also unique, since there has been no blockchain
 project dealing with payroll issues.
-Traditional Payroll System:
-![image](https://user-images.githubusercontent.com/106794981/221376792-ac24ad27-5dc7-48ec-9ddf-5a318c6faead.png)
 
 
 ![Business process flow example](https://user-images.githubusercontent.com/106794981/221376571-26adadbc-0f36-4299-9e15-622b523afea0.jpeg)
